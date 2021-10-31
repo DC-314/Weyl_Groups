@@ -49,12 +49,12 @@ def H_table( LM, H ):
         H.add( hashlib.sha256( LM[i] ).hexdigest()[:20] )
 
 
-def print_array(A):
-    n = len(A)
-    for i in range(n):
-        for j in range(n):
-            print '{:4}'.format(A[i][j]),
-        print
+#def print_array(A):
+#    n = len(A)
+#    for i in range(n):
+#        for j in range(n):
+#            print '{:4}'.format(A[i][j]),
+#        print
 
 
 # Find number of elements that are their own inverse in each partition of E7
@@ -164,8 +164,8 @@ Inverses = Count_Inverses(E7,I_7)
 sum=0
 sum1=0
 for i in range(len(P_size)):
-   print i,P_size[i],Inverses[i]
+   print(i,P_size[i],Inverses[i])
    sum += P_size[i]
    sum1 += Inverses[i]
 
-print "TOTAL  " + str(sum) + "  " +  str(sum1)
+print( "TOTAL  " + str(sum) + "  " +  str(sum1) )
