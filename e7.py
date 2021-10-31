@@ -1,4 +1,3 @@
-# Python2.7
 import hashlib
 import numpy as np
 
