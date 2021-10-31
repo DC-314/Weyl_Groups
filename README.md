@@ -1,6 +1,6 @@
 # Weyl_Groups
 To run&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> python e6.py <br />
-or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> python e7.py <br /><br />
+or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> python e7.py <br /><br />
 To install numpy&nbsp;&nbsp;> pip install numpy <br />
 or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> pip3 install numpy <br /> <br /> <br />
